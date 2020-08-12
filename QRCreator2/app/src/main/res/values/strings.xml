@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QRCreator</string>
+    <string name="enter_qr_text">Enter QR-Text</string>
+    <string name="share">share</string>
+    <string name="save">Save</string>
+    <string name="preview">Preview:</string>
+    <string name="error_correction_level">Error Correction Level:</string>
+    <string name="by_eike_schaubeck">by Eike Schaubeck</string>
+    <string-array name="levels">
+        <item>LOW</item>
+        <item>MEDIUM</item>
+        <item>QUARTILE</item>
+        <item>HIGH</item>
+    </string-array>
+</resources>
