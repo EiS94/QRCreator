@@ -1,5 +1,5 @@
 # QR-Creator
-<img src="https://i.ibb.co/pJ1dRJ4/icon.png" width="200" align="right">
+<img src="https://i.ibb.co/Hr3PCRB" width="200" align="right">
 Tool zum einfachen Erstellen von QR-Codes.
 Durch Texteingabe wird live der zugehörige QR-Code erstellt.
 4 Error-Correction-Stufen sind verfügbar.
